@@ -1,7 +1,9 @@
 # STAT628-Module1: Find Your Bodyfat
 ## Ke Tang, Yilun Zhang, Qiming Hao
-### This project is about the bodyfat calculator.
+This project is about the bodyfat calculator.
 ### Data folder:
+#### bodyfat.csv
+252 observations with 16 variables:    
 Percent body fat from Siri's (1956) equation  
 Density determined from underwater weighing  
 Age (years)  
@@ -18,6 +20,10 @@ Ankle circumference (cm)
 Biceps (extended) circumference (cm)  
 Forearm circumference (cm)  
 Wrist circumference (cm) 
+#### bodyfat_clean.csv
+245 observations with 14 variables.
+#### comparison.csv
+Comparison results between 10 models.
 ### Code folder:
 Data cleaning: Cook's distance    
 Variable selection: AIC, BIC, Mallow's Cp, Lasso, etc.    
