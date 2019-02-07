@@ -1,5 +1,5 @@
 #read data
-dat <- read.csv("BodyFat.csv")
+dat <- read.csv("bodyfat.csv")
 dat <- dat[,-1]
 
 #data cleaning
