@@ -30,3 +30,5 @@ Variable selection: AIC, BIC, Mallow's Cp, Lasso, etc.
 Produce figures and tables    
 ### Image folder:
 Any figures/images/tables produced in our analysis.
+### Link for the shiny app:
+https://yzhang993.shinyapps.io/app_bodyfat/
